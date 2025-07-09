@@ -1,7 +1,7 @@
 # Dataset configuration for YOLO segmentation
 
 # Paths
-path: ./dataset  # dataset root dir
+path: ./datasets  # dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/train    # val images (using train set for now, you can split later)
 
