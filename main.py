@@ -109,7 +109,7 @@ def main():
     主函数，运行labelme到yolo格式转换
     """
     # 配置参数
-    json_dir = r"d:\Github\datasets2\rawimg_2\rawimg2"  # labelme标注的json文件夹路径
+    json_dir = r"d:\Github\datasets2\rawimg_2\rawimg"  # labelme标注的json文件夹路径
     output_dir = r"d:\Github\datasets2"  # YOLO数据集输出根目录
     class_name = ["0"]  # 根据您的json文件，类别标签为"0"
     
