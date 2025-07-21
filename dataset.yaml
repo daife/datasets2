@@ -3,7 +3,7 @@
 # Paths
 path: ./datasets  # dataset root dir
 train: images/train  # train images (relative to 'path')
-val: images/train    # val images (using train set for now, you can split later)
+val: images/val    # val images 
 
 # Classes
 nc: 1  # number of classes
