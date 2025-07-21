@@ -1,7 +1,7 @@
 import os
 import random
 import shutil
-
+#
 def split_train_val(
     base_dir=r'd:\Github\datasets2',
     train_folder='train',
